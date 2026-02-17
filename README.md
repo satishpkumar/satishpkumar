@@ -17,3 +17,7 @@ to demonstrate production-ready skills.
 
 ## 🛠️ Skills
 Terraform | AWS | GitHub Actions | Linux | Site 24/7
+
+## 📌 About This Project
+All projects are independently
+designed and deployed on a personal AWS account.
