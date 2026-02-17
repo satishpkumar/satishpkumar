@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Satish Kumar Peddinti 👋
 
-<!--
-**satishpkumar/satishpkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Terraform Engineer | AWS | DevOps
 
-Here are some ideas to get you started:
+## 🚀 What I'm Building
+I'm building real-world AWS infrastructure projects using Terraform
+to demonstrate production-ready skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+| Project | Description | Tools |
+|---|---|---|
+| [EC2 Web Server](link) | Deploy Apache server on AWS | Terraform, AWS EC2 |
+| [Custom VPC](link) | Production-grade networking | Terraform, AWS VPC |
+| [3-Tier App](link) | Modular architecture | Terraform Modules, RDS |
+| [CI/CD Pipeline](link) | Automated deployments | GitHub Actions, Terraform |
+| [EKS Cluster](link) | Kubernetes on AWS | Terraform, EKS |
+
+## 🛠️ Skills
+Terraform | AWS | GitHub Actions | Linux | Site 24/7
