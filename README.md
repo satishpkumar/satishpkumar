@@ -12,7 +12,7 @@ to demonstrate production-ready skills.
 | [EC2 Web Server](link) | Deploy Apache server on AWS | Terraform, AWS EC2 |
 | [Custom VPC](link) | Production-grade networking | Terraform, AWS VPC |
 | [3-Tier App](link) | Modular architecture | Terraform Modules, RDS |
-| [CI/CD Pipeline](link) | Automated deployments | GitHub Actions, Terraform |
+| [CI/CD Pipeline](https://github.com/satishpkumar/terraform-oidc-demo.git) | Automated deployments | GitHub Actions, Terraform |
 | [EKS Cluster](link) | Kubernetes on AWS | Terraform, EKS |
 
 ## 🛠️ Skills
