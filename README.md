@@ -9,10 +9,10 @@ to demonstrate production-ready skills.
 ## 📂 Featured Projects
 | Project | Description | Tools |
 |---|---|---|
-| [EC2 Web Server](link) | Deploy Apache server on AWS | Terraform, AWS EC2 |
+| [Terraform State Management](https://github.com/satishpkumar/terraform-state-management-demo.git) |Demonstrates remote state management using S3 backend and DynamoDB locking for secure and consistent Terraform deployments | Terraform, AWS S3, DynamoDB, EC2 |
 | [Custom VPC](link) | Production-grade networking | Terraform, AWS VPC |
 | [3-Tier App](link) | Modular architecture | Terraform Modules, RDS |
-| [CI/CD Pipeline](https://github.com/satishpkumar/terraform-oidc-demo.git) | Automated deployments | GitHub Actions, Terraform |
+| [CI/CD Pipeline](https://github.com/satishpkumar/terraform-oidc-demo.git) | Automated deployments | GitHub Actions, OIDC, Terraform |
 | [EKS Cluster](link) | Kubernetes on AWS | Terraform, EKS |
 
 ## 🛠️ Skills
