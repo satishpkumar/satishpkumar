@@ -13,7 +13,7 @@ to demonstrate production-ready skills.
 | [Terraform VPC Demo](https://github.com/satishpkumar/terraform-vpc-demo.git) | Built a custom AWS VPC from scratch using Terraform, including a public subnet, Internet Gateway, Route Table, Route Table Association, Security Group, and EC2 instance. Demonstrated AWS networking concepts, public internet connectivity, resource dependencies, and Infrastructure as Code (IaC) best practices | Terraform, AWS VPC, EC2, Internet Gateway, Route Tables, Security Groups |
 | [Terraform-Modules-Demo](https://github.com/satishpkumar/terraform-modules-demo.git) | Built a modular AWS infrastructure using Terraform child modules for VPC, Subnet, Security Group, and EC2 provisioning. Implemented module communication through variables and outputs, enabling reusable, scalable, and maintainable Infrastructure as Code deployments. | Terraform, AWS VPC, EC2, Security Groups, Terraform Modules |
 | [Terraform OIDC Demo](https://github.com/satishpkumar/terraform-oidc-demo.git) | Implemented GitHub Actions OIDC authentication to securely provision AWS resources without storing long-lived AWS credentials | Terraform, GitHub Actions, AWS IAM, OIDC, STS, EC2 |
-| [EKS Cluster](link) | Kubernetes on AWS | Terraform, EKS |
+| [Terraform Multi-Environment Demo](https://github.com/satishpkumar/Terraform-multi-environment-demo.git) | Demonstrated environment-specific infrastructure deployments using Terraform variables and tfvars files. Implemented Dev, QA, and Prod configurations using a single codebase and explored the relationship between variable values, state management, and environment isolation| Terraform, AWS VPC, Variables, tfvars, Infrastructure as Code |
 
 ## 🛠️ Skills
 Terraform | AWS | GitHub Actions | Linux | Site 24/7
