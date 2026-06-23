@@ -1,6 +1,6 @@
 # Hi, I'm Satish Kumar Peddinti 👋
 
-🔧 Terraform Engineer | AWS | DevOps
+🔧 Hashicorp Certified Terraform Engineer | AWS | DevOps
 
 ## 🚀 What I'm Building
 I'm building real-world AWS infrastructure projects using Terraform
